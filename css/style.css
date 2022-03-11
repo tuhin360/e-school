@@ -1,88 +1,109 @@
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
-    section {
-        margin-bottom: 100px;
-    }
-    
-    .top-section {
-        background-color: #F0FFF0;
-        height: 576px;
-        width: 1280px;
-        left: 0px;
-        top: 0px;
-        border-radius: 0px;
-    }
-    
-    .nav-link {
-        margin-right: 15px;
-    }
-    
-    img {
-        height: 80px;
-        width: 245px;
-    }
-    
-    .banner-area {
-        margin: 80px 0;
-    }
-    
-    .banner-area h5 {
-        color: #FD511A;
-        position: absolute;
-        height: 24px;
-        top: 178px;
-        font-family: 'Poppins';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
-    }
-    
-    .banner-area h1 {
-        position: absolute;
-        width: 405px;
-        height: 140px;
-        top: 215px;
-        font-family: 'Poppins';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 40px;
-        color: #000000;
-    }
-    
-    .banner-area span {
-        color: #21B573;
-    }
-    
-    .banner-area p {
-        position: absolute;
-        width: 403px;
-        top: 325px;
-        font-family: 'Poppins';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        color: #6C6B6B;
-    }
-    
-    .banner-area img {
-        height: 346px;
-        width: 554px;
-        left: 691px;
-        top: 150px;
-        border-radius: 0px;
-    }
-    
-    .banner-area .btn {
-        height: 43px;
-        width: 114px;
-        margin-top: 215px;
-    }
-    
-    .btn {
-        height: 43px;
-        width: 104px;
-        left: 1201px;
-        top: 25px;
-        border-radius: 33px;
-        padding: 12px, 28px, 12px, 28px;
-    }
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+  section {
+      margin-bottom: 100px;
+  }
+  /* Default-CSS */
+  
+  .top-section {
+      background-color: #F0FFF0;
+      height: 576px;
+      width: 1280px;
+      left: 0px;
+      top: 0px;
+      border-radius: 0px;
+  }
+  /* top-section-css  */
+  
+  .nav-link {
+      margin-right: 15px;
+  }
+  
+  img {
+      height: 80px;
+      width: 245px;
+  }
+  
+  .banner-area {
+      margin: 80px 0;
+  }
+  
+  .banner-area h5 {
+      color: #FD511A;
+      position: absolute;
+      height: 24px;
+      top: 178px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+  }
+  
+  .banner-area h1 {
+      position: absolute;
+      width: 405px;
+      height: 140px;
+      top: 215px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 40px;
+      color: #000000;
+  }
+  
+  .banner-area span {
+      color: #21B573;
+  }
+  
+  .banner-area p {
+      position: absolute;
+      width: 403px;
+      top: 325px;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      color: #6C6B6B;
+  }
+  
+  .banner-area img {
+      height: 346px;
+      width: 554px;
+      left: 691px;
+      top: 150px;
+      border-radius: 0px;
+  }
+  
+  .banner-area .btn {
+      height: 43px;
+      width: 114px;
+      margin-top: 215px;
+  }
+  
+  .btn {
+      height: 43px;
+      width: 104px;
+      left: 1201px;
+      top: 25px;
+      border-radius: 33px;
+      padding: 12px, 28px, 12px, 28px;
+  }
+  /* categories-css */
+  
+  .card {
+      background: #F8FFFB;
+      border-radius: 10px;
+      width: 270px;
+      height: 270px;
+  }
+  
+  .card-two {
+      box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+  }
+  
+  .card-img-top {
+      height: 100px;
+      width: 100px;
+      margin: 40px 85px 20px 85px;
+  }
