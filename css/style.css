@@ -7,7 +7,7 @@
     .top-section {
         background-color: #F0FFF0;
         height: 576px;
-        width: 1280px;
+        width: 1250px;
         left: 0px;
         top: 0px;
         border-radius: 0px;
@@ -195,7 +195,7 @@ testimonial css */
     
     footer {
         background: #282531;
-        height: 350px;
+        height: 310px;
     }
     
     footer p {
@@ -206,7 +206,7 @@ testimonial css */
     footer h5 {
         color: #fff;
         text-align: center;
-        margin-top: 55px;
+        padding-top: 55px;
     }
     
     footer ul {
@@ -215,12 +215,16 @@ testimonial css */
     }
     
     footer ul li {
-        margin-left: 75px;
+        padding-left: 75px;
     }
     
     footer ul a {
         text-decoration: none;
         color: #fff;
+    }
+    
+    .last li {
+        margin-left: -20px;
     }
     
     .copyright {
